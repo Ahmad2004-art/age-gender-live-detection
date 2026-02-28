@@ -99,8 +99,6 @@ Predictions are shown in real-time above the detected face.
 
 Improve model accuracy with larger dataset
 
-Add confidence scores
-
 Optimize for GPU acceleration
 
 Deploy as mobile application (TensorFlow Lite)
